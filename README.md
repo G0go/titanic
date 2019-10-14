@@ -1,1 +1,1 @@
-Predictions implementation with 80 % average accuracy using Gradient Descent
+# Predictions implementation with 80 % average accuracy using Gradient Boosting Classifier
